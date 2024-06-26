@@ -1,0 +1,9 @@
+
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+v
+java:S3305"[Inject this field value directly into "paymentEventConsumer", the only method that uses it.(–ºÊÊşÿÿÿÿ
+P
+java:S1611"5Remove the parentheses around the "payment" parameter(ôã£úÿÿÿÿ
+G
+java:S1602",Remove useless curly braces around statement(ôã£úÿÿÿÿ
